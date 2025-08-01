@@ -34,10 +34,6 @@
 <a href="https://www.linkedin.com/in/sayan-dutta-4a0659282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-dutta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Certifications:</h3>
-<p align="left">
-🏆 <a href="https://www.testdome.com/certificates/cc38b9e0a64e437489b80b84363ad106" target="_blank">Go Programming Certificate - TestDome</a>
-</p>
 
 ## 📊 My Coding Profiles
 <span>
